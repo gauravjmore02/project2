@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-23T11:37:54 IST" name="Default suite" finished-at="2023-07-23T11:38:21 IST" duration-ms="27082">
+    <groups>
+    </groups>
+    <test started-at="2023-07-23T11:37:54 IST" name="Default test" finished-at="2023-07-23T11:38:21 IST" duration-ms="27082">
+      <class name="com.amazon.testlayer.PrintAllProduct">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amazon.testlayer.PrintAllProduct@3e92efc3]" started-at="2023-07-23T11:37:54 IST" name="setUp" finished-at="2023-07-23T11:38:16 IST" duration-ms="22225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="printAllProductFrom1stPage()[pri:0, instance:com.amazon.testlayer.PrintAllProduct@3e92efc3]" started-at="2023-07-23T11:38:16 IST" name="printAllProductFrom1stPage" finished-at="2023-07-23T11:38:20 IST" duration-ms="4400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printAllProductFrom1stPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testlayer.PrintAllProduct@3e92efc3]" started-at="2023-07-23T11:38:20 IST" name="tearDown" finished-at="2023-07-23T11:38:21 IST" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.testlayer.PrintAllProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
